@@ -34,7 +34,7 @@
     border-color: aqua;
     border-style: solid ;
 
-    background-image: url("../images/photo.jpg");
+    background-image: url("images/photo.jpg");
     background-size: contain;
     padding-left: 25px ;
 
@@ -223,23 +223,23 @@ color  : black ;
     background-color: rgb(227, 182, 227) ; 
 }
 #card1{
-    background-image: url( "../images/juhi.jpg");
+    background-image: url( "images/juhi.jpg");
     background-size: contain ;
 }
 #card2{
-    background-image: url("../images/rydham.jpg");
+    background-image: url("images/rydham.jpg");
     background-size: contain;
 }
 #card3{
-    background-image: url("../images/tax.jpg");
+    background-image: url("images/tax.jpg");
     background-size: contain ;
 }
 #card4{
-    background-image: url("..images/kaki.jpg");
+    background-image: url("images/kaki.jpg");
     background-size: contain ;
 }
 #card5{
-    background-image: url("..images/flipkart.jpg");
+    background-image: url("images/flipkart.jpg");
     background-size: contain ;
 }
 #select{
@@ -263,5 +263,6 @@ border: 2px solid transparent;
 
 
 }
+
 
 
