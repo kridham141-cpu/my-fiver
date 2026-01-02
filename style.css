@@ -227,7 +227,7 @@ color  : black ;
     background-size: contain ;
 }
 #card2{
-    background-image: url(rydham.jpg);
+    background-image: url("../images/rydham.jpg");
     background-size: contain;
 }
 #card3{
@@ -263,3 +263,4 @@ border: 2px solid transparent;
 
 
 }
+
